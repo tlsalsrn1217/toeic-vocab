@@ -1,0 +1,5 @@
+.DS_Store
+*.zip
+*.png
+!assets/*.png
+나의-토익-단어장.html
