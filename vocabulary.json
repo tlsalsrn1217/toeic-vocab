@@ -463,7 +463,7 @@
           "id": "take-off-s2",
           "pos": "phr.v.",
           "meaning": "이륙하다",
-          "highlight": false,
+          "highlight": true,
           "en": "Our flight will take off at noon.",
           "ko": "우리 비행기는 정오에 이륙한다."
         },
@@ -7902,6 +7902,662 @@
       "importance": {
         "level": 2,
         "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "durable",
+      "term": "durable",
+      "category": "시설 생활",
+      "batch": "네 번째 기록",
+      "note": "durable materials 내구성이 좋은 자재.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "durable-s1",
+          "pos": "a.",
+          "meaning": "내구성이 있는; 오래가는",
+          "highlight": true,
+          "en": "These durable chairs are suitable for outdoor use.",
+          "ko": "이 내구성 있는 의자들은 야외 사용에 적합하다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장과 어휘·구문 구별에 유용한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "involve",
+      "term": "involve",
+      "category": "사무 업무",
+      "batch": "네 번째 기록",
+      "note": "involve -ing는 ~하는 것을 수반하다. be involved in은 ~에 참여·관여하다.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "involve-s1",
+          "pos": "v.",
+          "meaning": "수반하다; 포함하다",
+          "highlight": true,
+          "en": "The position involves frequent travel.",
+          "ko": "그 직책에는 잦은 출장이 수반된다."
+        },
+        {
+          "id": "involve-s2",
+          "pos": "v.",
+          "meaning": "관련시키다; 참여시키다",
+          "highlight": false,
+          "en": "The manager involved the entire team in the project.",
+          "ko": "관리자는 프로젝트에 팀 전체를 참여시켰다."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "업무·생활 문장과 어휘·구문 구별에 유용한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "landlord",
+      "term": "landlord",
+      "category": "시설 생활",
+      "batch": "네 번째 기록",
+      "note": "landlord 집주인·임대인 ↔ tenant 세입자·임차인.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "landlord-s1",
+          "pos": "n.",
+          "meaning": "집주인; 건물주; 임대인",
+          "highlight": true,
+          "en": "The landlord agreed to repair the heating system.",
+          "ko": "건물주가 난방 설비를 수리하기로 동의했다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장과 어휘·구문 구별에 유용한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "entrepreneur",
+      "term": "entrepreneur",
+      "category": "고용 인사",
+      "batch": "네 번째 기록",
+      "note": "entrepreneur는 사업을 시작하고 운영하는 사람. entrepreneurship 기업가 정신.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "entrepreneur-s1",
+          "pos": "n.",
+          "meaning": "사업가; 기업가",
+          "highlight": true,
+          "en": "The entrepreneur opened a second store downtown.",
+          "ko": "그 기업가는 도심에 두 번째 매장을 열었다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장과 어휘·구문 구별에 유용한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "pharmaceutical",
+      "term": "pharmaceutical",
+      "category": "사무 업무",
+      "batch": "네 번째 기록",
+      "note": "pharmaceutical company 제약 회사. pharmaceuticals는 의약품을 뜻하는 복수 명사.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "pharmaceutical-s1",
+          "pos": "a.",
+          "meaning": "약학의; 제약의",
+          "highlight": true,
+          "en": "She works for a pharmaceutical company.",
+          "ko": "그녀는 제약 회사에서 일한다."
+        },
+        {
+          "id": "pharmaceutical-s2",
+          "pos": "n.",
+          "meaning": "의약품; 약제",
+          "highlight": false,
+          "en": "The firm supplies pharmaceuticals to local hospitals.",
+          "ko": "그 회사는 지역 병원에 의약품을 공급한다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장과 어휘·구문 구별에 유용한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "restructure",
+      "term": "restructure",
+      "category": "고용 인사",
+      "batch": "네 번째 기록",
+      "note": "restructure a department 부서를 개편하다. restructuring 구조 조정.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "restructure-s1",
+          "pos": "v.",
+          "meaning": "구조 조정을 하다; 개편하다",
+          "highlight": true,
+          "en": "The company will restructure its sales division.",
+          "ko": "그 회사는 영업 부서를 개편할 것이다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장과 어휘·구문 구별에 유용한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "lightweight",
+      "term": "lightweight",
+      "category": "시설 생활",
+      "batch": "네 번째 기록",
+      "note": "lightweight luggage 가벼운 여행 가방.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "lightweight-s1",
+          "pos": "a.",
+          "meaning": "가벼운; 경량의",
+          "highlight": true,
+          "en": "This lightweight suitcase is easy to carry.",
+          "ko": "이 경량 여행 가방은 운반하기 쉽다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장과 어휘·구문 구별에 유용한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "division",
+      "term": "division",
+      "category": "고용 인사",
+      "batch": "네 번째 기록",
+      "note": "a division of a company 회사의 한 부서. department와 비슷하지만 큰 조직의 사업 부문을 가리킬 수도 있습니다.",
+      "correction": "Devision은 잘못된 철자이므로 division으로 고쳤습니다.",
+      "senses": [
+        {
+          "id": "division-s1",
+          "pos": "n.",
+          "meaning": "부서; 사업 부문",
+          "highlight": true,
+          "en": "She joined the marketing division last year.",
+          "ko": "그녀는 작년에 마케팅 부서에 합류했다."
+        },
+        {
+          "id": "division-s2",
+          "pos": "n.",
+          "meaning": "분할; 나눔",
+          "highlight": false,
+          "en": "The division of tasks was agreed upon at the meeting.",
+          "ko": "회의에서 업무 분담에 합의했다."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "업무·생활 문장과 어휘·구문 구별에 유용한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "dividend",
+      "term": "dividend",
+      "category": "거래 금융",
+      "batch": "네 번째 기록",
+      "note": "pay a dividend 배당금을 지급하다. dividend yield 배당 수익률.",
+      "correction": "Devidend는 잘못된 철자이므로 dividend로 고쳤습니다.",
+      "senses": [
+        {
+          "id": "dividend-s1",
+          "pos": "n.",
+          "meaning": "배당금",
+          "highlight": true,
+          "en": "Shareholders will receive a dividend next month.",
+          "ko": "주주들은 다음 달에 배당금을 받을 것이다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장과 어휘·구문 구별에 유용한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "figure",
+      "term": "figure",
+      "category": "사무 업무",
+      "batch": "네 번째 기록",
+      "note": "sales figures 매출 수치. figure out은 별도의 표현입니다.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "figure-s1",
+          "pos": "n.",
+          "meaning": "수치; 숫자",
+          "highlight": true,
+          "en": "The latest sales figures exceeded our projections.",
+          "ko": "최신 매출 수치가 예상치를 웃돌았다."
+        },
+        {
+          "id": "figure-s2",
+          "pos": "n.",
+          "meaning": "인물; 중요 인사",
+          "highlight": false,
+          "en": "A leading figure in the industry will speak at the event.",
+          "ko": "업계의 주요 인물이 그 행사에서 연설할 것이다."
+        },
+        {
+          "id": "figure-s3",
+          "pos": "v.",
+          "meaning": "생각하다; 판단하다",
+          "highlight": false,
+          "en": "I figure the repairs will take two days.",
+          "ko": "수리에 이틀이 걸릴 것으로 생각한다."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "업무·생활 문장과 어휘·구문 구별에 유용한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "figure-out",
+      "term": "figure out",
+      "category": "표현 문법",
+      "batch": "네 번째 기록",
+      "note": "figure out how to do ~하는 방법을 알아내다.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "figure-out-s1",
+          "pos": "phr.v.",
+          "meaning": "알아내다; 생각해 내다; 이해하다",
+          "highlight": true,
+          "en": "We need to figure out why the system stopped working.",
+          "ko": "우리는 시스템이 작동을 멈춘 이유를 알아내야 한다."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "업무·생활 문장과 어휘·구문 구별에 유용한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "patron",
+      "term": "patron",
+      "category": "시설 생활",
+      "batch": "네 번째 기록",
+      "note": "식당·상점 등의 patron은 단골이나 이용 고객을 뜻합니다. patronize와 형태를 구분하세요.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "patron-s1",
+          "pos": "n.",
+          "meaning": "고객; 이용자; 단골",
+          "highlight": true,
+          "en": "The restaurant offers discounts to regular patrons.",
+          "ko": "그 식당은 단골 고객에게 할인을 제공한다."
+        },
+        {
+          "id": "patron-s2",
+          "pos": "n.",
+          "meaning": "후원자",
+          "highlight": false,
+          "en": "A local patron donated funds to the museum.",
+          "ko": "지역의 한 후원자가 박물관에 기금을 기부했다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장과 어휘·구문 구별에 유용한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "patronize",
+      "term": "patronize",
+      "category": "시설 생활",
+      "batch": "네 번째 기록",
+      "note": "patronize a business는 그 업체를 애용하다. 사람을 patronize하면 깔보듯 대하다라는 뜻도 있어 문맥을 보세요.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "patronize-s1",
+          "pos": "v.",
+          "meaning": "(상점 등을) 애용하다; 단골로 다니다",
+          "highlight": true,
+          "en": "Many residents patronize the neighborhood bakery.",
+          "ko": "많은 주민이 동네 빵집을 애용한다."
+        },
+        {
+          "id": "patronize-s2",
+          "pos": "v.",
+          "meaning": "깔보듯 대하다",
+          "highlight": false,
+          "en": "Please do not patronize new employees.",
+          "ko": "신입 직원들을 깔보듯 대하지 마세요."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장과 어휘·구문 구별에 유용한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "personnel",
+      "term": "personnel",
+      "category": "고용 인사",
+      "batch": "네 번째 기록",
+      "note": "personnel은 보통 집합적으로 직원·인원을 뜻하며 인사 부서를 가리키기도 합니다. personal(개인의)과 철자·뜻을 구분하세요.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "personnel-s1",
+          "pos": "n.",
+          "meaning": "인원; 직원",
+          "highlight": true,
+          "en": "All personnel must wear identification badges.",
+          "ko": "모든 직원은 신분증을 착용해야 한다."
+        },
+        {
+          "id": "personnel-s2",
+          "pos": "n.",
+          "meaning": "인사부; 인사 담당 부서",
+          "highlight": false,
+          "en": "Please send the form to Personnel.",
+          "ko": "양식을 인사부에 보내 주세요."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "업무·생활 문장과 어휘·구문 구별에 유용한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "acclaimed",
+      "term": "acclaimed",
+      "category": "사무 업무",
+      "batch": "네 번째 기록",
+      "note": "critically acclaimed 비평가들의 호평을 받는.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "acclaimed-s1",
+          "pos": "a.",
+          "meaning": "호평을 받는; 찬사를 받은",
+          "highlight": true,
+          "en": "The acclaimed designer will lead the workshop.",
+          "ko": "호평을 받은 디자이너가 워크숍을 이끌 것이다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장과 어휘·구문 구별에 유용한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "aisle",
+      "term": "aisle",
+      "category": "사진 묘사",
+      "batch": "네 번째 기록",
+      "note": "aisle seat 통로 쪽 좌석. 철자는 isle(섬)과 구분하세요.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "aisle-s1",
+          "pos": "n.",
+          "meaning": "통로",
+          "highlight": true,
+          "en": "A shopper is walking down the aisle.",
+          "ko": "쇼핑객 한 명이 통로를 따라 걷고 있다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장과 어휘·구문 구별에 유용한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "paperwork",
+      "term": "paperwork",
+      "category": "사무 업무",
+      "batch": "네 번째 기록",
+      "note": "complete the paperwork 서류 작업을 마치다. 여러 서류를 통틀어 이르는 셀 수 없는 명사입니다.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "paperwork-s1",
+          "pos": "n.",
+          "meaning": "서류 작업; 서류",
+          "highlight": true,
+          "en": "Please complete the paperwork before your first day.",
+          "ko": "첫 출근일 전에 서류 작업을 마쳐 주세요."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "업무·생활 문장과 어휘·구문 구별에 유용한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "occupation",
+      "term": "occupation",
+      "category": "고용 인사",
+      "batch": "네 번째 기록",
+      "note": "occupation은 직업. occupancy는 건물·객실의 점유나 사용 중인 상태를 뜻합니다.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "occupation-s1",
+          "pos": "n.",
+          "meaning": "직업",
+          "highlight": true,
+          "en": "Please state your occupation on the form.",
+          "ko": "양식에 직업을 적어 주세요."
+        },
+        {
+          "id": "occupation-s2",
+          "pos": "n.",
+          "meaning": "점유; 거주",
+          "highlight": false,
+          "en": "The building remained under occupation during repairs.",
+          "ko": "수리하는 동안에도 그 건물에는 사람이 거주했다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장과 어휘·구문 구별에 유용한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "occupancy",
+      "term": "occupancy",
+      "category": "시설 생활",
+      "batch": "네 번째 기록",
+      "note": "occupation(직업)과 달리 객실·건물의 점유 상태나 점유율을 뜻합니다. hotel occupancy 객실 점유율.",
+      "correction": "함께 적힌 occupancy를 occupation과 구분할 수 있도록 별도 항목으로 추가했습니다.",
+      "senses": [
+        {
+          "id": "occupancy-s1",
+          "pos": "n.",
+          "meaning": "점유; 입주; 객실 점유율",
+          "highlight": true,
+          "en": "Hotel occupancy rose during the conference.",
+          "ko": "회의 기간에 호텔 객실 점유율이 높아졌다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장과 어휘·구문 구별에 유용한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "take-over",
+      "term": "take over",
+      "category": "표현 문법",
+      "batch": "네 번째 기록",
+      "note": "take over a role 역할을 인계받다. take over from someone 누구의 일을 이어받다.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "take-over-s1",
+          "pos": "phr.v.",
+          "meaning": "인계받다; 이어받다",
+          "highlight": true,
+          "en": "Mina will take over the project next week.",
+          "ko": "미나가 다음 주에 그 프로젝트를 인계받을 것이다."
+        },
+        {
+          "id": "take-over-s2",
+          "pos": "phr.v.",
+          "meaning": "(회사 등을) 인수하다",
+          "highlight": false,
+          "en": "The larger firm took over its competitor.",
+          "ko": "그 대기업이 경쟁사를 인수했다."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "업무·생활 문장과 어휘·구문 구별에 유용한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "take-place",
+      "term": "take place",
+      "category": "표현 문법",
+      "batch": "네 번째 기록",
+      "note": "행사·회의가 take place 하면 열리다·개최되다. 수동태 be taken place로 쓰지 않습니다.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "take-place-s1",
+          "pos": "phr.v.",
+          "meaning": "일어나다; 발생하다; 개최되다",
+          "highlight": true,
+          "en": "The training session will take place on Friday.",
+          "ko": "교육은 금요일에 열릴 것이다."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "업무·생활 문장과 어휘·구문 구별에 유용한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "turn-down",
+      "term": "turn down",
+      "category": "표현 문법",
+      "batch": "네 번째 기록",
+      "note": "turn down an offer 제안을 거절하다. turn down the volume 소리를 줄이다.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "turn-down-s1",
+          "pos": "phr.v.",
+          "meaning": "거절하다",
+          "highlight": true,
+          "en": "She turned down the job offer.",
+          "ko": "그녀는 채용 제안을 거절했다."
+        },
+        {
+          "id": "turn-down-s2",
+          "pos": "phr.v.",
+          "meaning": "(소리·온도 등을) 낮추다",
+          "highlight": false,
+          "en": "Please turn down the volume during the meeting.",
+          "ko": "회의 중에는 음량을 낮춰 주세요."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "업무·생활 문장과 어휘·구문 구별에 유용한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "turn-in",
+      "term": "turn in",
+      "category": "표현 문법",
+      "batch": "네 번째 기록",
+      "note": "turn in an assignment 과제를 제출하다. hand in과 비슷합니다.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "turn-in-s1",
+          "pos": "phr.v.",
+          "meaning": "제출하다; 반납하다",
+          "highlight": true,
+          "en": "Please turn in your expense report by Friday.",
+          "ko": "금요일까지 경비 보고서를 제출해 주세요."
+        },
+        {
+          "id": "turn-in-s2",
+          "pos": "phr.v.",
+          "meaning": "(분실물 등을) 맡기다",
+          "highlight": false,
+          "en": "A visitor turned in a lost wallet at reception.",
+          "ko": "방문객이 분실된 지갑을 접수처에 맡겼다."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "업무·생활 문장과 어휘·구문 구별에 유용한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "turn-out",
+      "term": "turn out",
+      "category": "표현 문법",
+      "batch": "네 번째 기록",
+      "note": "turn out (to be) ~라는 것이 밝혀지다. turn out for an event 행사에 참석하다.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "turn-out-s1",
+          "pos": "phr.v.",
+          "meaning": "~라는 것이 밝혀지다; 결과적으로 ~이 되다",
+          "highlight": true,
+          "en": "The delay turned out to be a minor issue.",
+          "ko": "그 지연은 결국 사소한 문제로 밝혀졌다."
+        },
+        {
+          "id": "turn-out-s2",
+          "pos": "phr.v.",
+          "meaning": "(사람들이) 모이다; 참석하다",
+          "highlight": false,
+          "en": "Hundreds of people turned out for the event.",
+          "ko": "수백 명이 행사에 참석했다."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "업무·생활 문장과 어휘·구문 구별에 유용한 학습 항목입니다.",
         "basis": "editorial-toeic-v1"
       }
     }
