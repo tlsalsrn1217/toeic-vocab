@@ -39,3 +39,10 @@ mark{background:#fff0a6;color:#332a11;padding:1px 3px;border-radius:3px}
 .grammar-explanation li{margin:12px 0;padding-left:3px}
 .grammar-explanation li p{margin:4px 0;line-height:1.85;overflow-wrap:anywhere}
 .result-explanation{margin-top:12px}.result-explanation summary{cursor:pointer;color:#264e79;padding:8px 0;font-weight:600}
+.header-search{display:inline-flex;align-items:center;justify-content:center;gap:7px;border:1px solid #dce2eb;border-radius:9px;background:#fff;color:#335b85;padding:9px 12px;font-size:13px;font-weight:650;white-space:nowrap;cursor:pointer}
+.header-search:hover,.header-search:focus-visible{background:#eef5ff;border-color:#9abff8}.header-search .lucide{width:17px;height:17px}
+.global-search-results{margin-top:14px;max-height:min(56vh,490px);overflow-y:auto}.search-count{font-size:12px;color:#627084;margin:5px 0 9px}.search-prompt{padding:22px 8px;color:#627084;font-size:13px}
+.search-result{display:flex;width:100%;align-items:center;gap:14px;text-align:left;border:0;border-bottom:1px solid #e8edf3;background:#fff;padding:13px 9px;cursor:pointer;color:#243247}
+.search-result:hover,.search-result:focus-visible{background:#eef5ff}.search-result-term{font-weight:730;min-width:145px;overflow-wrap:anywhere}.search-result-meaning{flex:1;font-size:13px;line-height:1.5;overflow-wrap:anywhere}.search-result-category{font-size:11px;color:#627084;white-space:nowrap}.search-all{margin-top:12px;width:100%}
+@media(max-width:800px){.header-search{padding:8px}.header-search span{display:none}}
+@media(max-width:540px){.search-result{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:3px 8px}.search-result-term{min-width:0}.search-result-meaning{grid-column:1 / -1;grid-row:2}.search-result-category{grid-column:2;grid-row:1}.topbar .brand-logo{width:32px;height:32px}.topbar{gap:4px;padding-left:9px;padding-right:9px}.topbar .nav-link{padding-left:5px;padding-right:5px;font-size:11px}.header-search{padding:6px}}
