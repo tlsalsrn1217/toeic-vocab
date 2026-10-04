@@ -25,3 +25,17 @@ dialog{border:0;border-radius:18px;padding:0;max-width:min(740px,calc(100vw - 28
 @media(max-width:540px){.brand-logo{width:32px;height:32px}.word-importance{max-width:calc(100% - 75px);font-size:10px;margin-top:3px;padding:4px 0}.rating-stars{font-size:13px}.word-illustration{top:45px;width:68px;height:74px}.importance-scale li{gap:13px}.importance-detail>.rating-stars{font-size:22px}}
 @media print{.word-importance{print-color-adjust:exact}.importance-help{display:none}}
 @media(max-width:540px){.toolbar{display:grid;grid-template-columns:minmax(0,1fr) 100px 30px 30px;gap:6px}.toolbar .search{min-width:0}.toolbar>.control{width:100%;max-width:none}.toolbar>.icon-button{width:30px}}
+
+/* Review keeps other meanings visible; text labels also distinguish emphasis. */
+.review-meanings,.grammar-explanation{margin-top:20px;padding-top:16px;border-top:1px solid #c7d3df;text-align:left;line-height:1.75}
+.review-meanings h3,.grammar-explanation h3{font-size:16px;margin:0 0 8px}
+.review-legend{font-size:12px;color:#526175}
+.review-meanings ul{list-style:none;padding:0;margin:10px 0}
+.review-sense{padding:8px 10px;margin:7px 0;border:2px solid transparent;border-radius:8px;background:#fff;color:#243247;overflow-wrap:anywhere}
+.review-sense.answer-sense{border-color:#2563a6;background:#f0f6ff}
+mark{background:#fff0a6;color:#332a11;padding:1px 3px;border-radius:3px}
+.sense-badge{display:inline-block;font-size:11px;margin-left:7px;color:#264e79;font-weight:600}
+.grammar-explanation ol{padding-left:22px;margin:10px 0}
+.grammar-explanation li{margin:12px 0;padding-left:3px}
+.grammar-explanation li p{margin:4px 0;line-height:1.85;overflow-wrap:anywhere}
+.result-explanation{margin-top:12px}.result-explanation summary{cursor:pointer;color:#264e79;padding:8px 0;font-weight:600}

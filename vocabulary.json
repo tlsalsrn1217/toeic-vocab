@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-01",
+  "updated": "2026-10-04",
   "words": [
     {
       "id": "apron",
@@ -284,7 +284,7 @@
           "id": "garage-s2",
           "pos": "n.",
           "meaning": "자동차 정비소",
-          "highlight": false,
+          "highlight": true,
           "en": "The delivery van is at the garage for repairs.",
           "ko": "배송 차량이 수리를 위해 정비소에 있다."
         },
@@ -6654,6 +6654,1254 @@
       "importance": {
         "level": 3,
         "reason": "아이디어·해결책 제시 문맥에서 자주 쓰이는 구동사입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "accommodate",
+      "term": "accommodate",
+      "category": "사무 업무",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "accommodate-s1",
+          "pos": "v.",
+          "meaning": "수용하다; 공간을 제공하다",
+          "en": "The hall can accommodate 200 guests.",
+          "ko": "그 홀은 손님 200명을 수용할 수 있다.",
+          "highlight": true
+        },
+        {
+          "id": "accommodate-s2",
+          "pos": "v.",
+          "meaning": "요구에 맞추다; 편의를 제공하다",
+          "en": "We can accommodate your dietary needs.",
+          "ko": "저희는 고객님의 식단 요구에 맞춰 드릴 수 있습니다.",
+          "highlight": false
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "regulate",
+      "term": "regulate",
+      "category": "사무 업무",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "regulate-s1",
+          "pos": "v.",
+          "meaning": "규제하다; 조절하다",
+          "en": "The device regulates room temperature.",
+          "ko": "그 장치는 실내 온도를 조절한다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "carry",
+      "term": "carry",
+      "category": "사무 업무",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "carry-s1",
+          "pos": "v.",
+          "meaning": "판매하다; 취급하다",
+          "en": "This store carries office supplies.",
+          "ko": "이 매장은 사무용품을 취급한다.",
+          "highlight": true
+        },
+        {
+          "id": "carry-s2",
+          "pos": "v.",
+          "meaning": "나르다; 가지고 다니다",
+          "en": "Please carry the boxes upstairs.",
+          "ko": "상자를 위층으로 옮겨 주세요.",
+          "highlight": false
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "carrier",
+      "term": "carrier",
+      "category": "사무 업무",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "carrier-s1",
+          "pos": "n.",
+          "meaning": "항공사; 운송 회사; 통신사",
+          "en": "Please contact the carrier about your delivery.",
+          "ko": "배송에 관해서는 운송 회사에 문의하세요.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "carry-on-baggage",
+      "term": "carry-on",
+      "category": "사무 업무",
+      "batch": "세 번째 기록",
+      "note": "하이픈이 있는 carry-on은 기내 반입용의. carry on(계속하다)과 구분합니다. carry-on luggage 기내 수하물.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "carry-on-baggage-s1",
+          "pos": "a.",
+          "meaning": "기내 반입용의",
+          "en": "One carry-on bag is allowed per passenger.",
+          "ko": "승객 한 명당 기내 반입 가방 하나가 허용된다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "lease",
+      "term": "lease",
+      "category": "사무 업무",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "lease-s1",
+          "pos": "v.",
+          "meaning": "임대하다; 임차하다",
+          "en": "We lease office space downtown.",
+          "ko": "우리는 도심의 사무실 공간을 임차한다.",
+          "highlight": true
+        },
+        {
+          "id": "lease-s2",
+          "pos": "n.",
+          "meaning": "임대차 계약",
+          "en": "The lease expires in June.",
+          "ko": "임대차 계약은 6월에 만료된다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "merchant",
+      "term": "merchant",
+      "category": "사무 업무",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "merchant-s1",
+          "pos": "n.",
+          "meaning": "상인; 판매업자",
+          "en": "Local merchants will participate in the festival.",
+          "ko": "지역 상인들이 축제에 참여할 것이다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "cut-down-on",
+      "term": "cut down on",
+      "category": "표현 문법",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "cut-down-on-s1",
+          "pos": "phr.v.",
+          "meaning": "~을 줄이다",
+          "en": "We need to cut down on paper use.",
+          "ko": "우리는 종이 사용을 줄여야 한다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "drop-in",
+      "term": "drop in",
+      "category": "표현 문법",
+      "batch": "세 번째 기록",
+      "note": "drop in on + 사람, drop in at + 장소. 사전 약속 없이 잠깐 방문한다는 뜻입니다.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "drop-in-s1",
+          "pos": "phr.v.",
+          "meaning": "잠시 들르다",
+          "en": "Feel free to drop in during office hours.",
+          "ko": "업무 시간에 편하게 들르세요.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "drop-out",
+      "term": "drop out",
+      "category": "표현 문법",
+      "batch": "세 번째 기록",
+      "note": "drop out of + 과정·활동. drop in(잠시 들르다)과 뜻이 다릅니다.",
+      "correction": "drop out은 잠시 들르다가 아니라 중도에 그만두다입니다. drop in과 분리했습니다.",
+      "senses": [
+        {
+          "id": "drop-out-s1",
+          "pos": "phr.v.",
+          "meaning": "중도에 그만두다; 탈퇴하다",
+          "en": "Two participants dropped out of the training program.",
+          "ko": "참가자 두 명이 교육 과정을 중도에 그만두었다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "fall-apart",
+      "term": "fall apart",
+      "category": "표현 문법",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "fall-apart-s1",
+          "pos": "phr.v.",
+          "meaning": "부서지다; 무너지다; 무산되다",
+          "en": "The agreement fell apart after the negotiations.",
+          "ko": "협상 후 합의가 무산되었다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "fill-out",
+      "term": "fill out",
+      "category": "표현 문법",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "fill-out-s1",
+          "pos": "phr.v.",
+          "meaning": "기입하다; 작성하다",
+          "en": "Please fill out this application form.",
+          "ko": "이 신청서를 작성해 주세요.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "fill-in",
+      "term": "fill in",
+      "category": "표현 문법",
+      "batch": "세 번째 기록",
+      "note": "fill in a form과 fill out a form은 모두 서식을 작성한다는 뜻입니다.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "fill-in-s1",
+          "pos": "phr.v.",
+          "meaning": "기입하다; 빈칸을 채우다",
+          "en": "Fill in your name and address below.",
+          "ko": "아래에 이름과 주소를 기입하세요.",
+          "highlight": true
+        },
+        {
+          "id": "fill-in-s2",
+          "pos": "phr.v.",
+          "meaning": "임시로 대신 일하다",
+          "en": "Can you fill in tomorrow morning?",
+          "ko": "내일 아침에 대신 일해 주실 수 있나요?",
+          "highlight": false
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "fill-in-for",
+      "term": "fill in for",
+      "category": "표현 문법",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "fill-in-for-s1",
+          "pos": "phr.v.",
+          "meaning": "~을 대신하다",
+          "en": "Mina will fill in for the receptionist.",
+          "ko": "미나가 접수 직원을 대신할 것이다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "follow-up-on",
+      "term": "follow up on",
+      "category": "표현 문법",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "follow-up-on-s1",
+          "pos": "phr.v.",
+          "meaning": "~에 대해 후속 조치를 취하다",
+          "en": "I am calling to follow up on your request.",
+          "ko": "요청하신 건의 후속 조치를 위해 전화드렸습니다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "inactive",
+      "term": "inactive",
+      "category": "사무 업무",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "inactive-s1",
+          "pos": "a.",
+          "meaning": "활동하지 않는; 비활성의",
+          "en": "Inactive accounts will be closed.",
+          "ko": "비활성 계정은 폐쇄될 것이다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "malfunction",
+      "term": "malfunction",
+      "category": "사무 업무",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "malfunction-s1",
+          "pos": "n.",
+          "meaning": "오작동; 고장",
+          "en": "A malfunction delayed production.",
+          "ko": "오작동으로 생산이 지연되었다.",
+          "highlight": true
+        },
+        {
+          "id": "malfunction-s2",
+          "pos": "v.",
+          "meaning": "오작동하다",
+          "en": "The printer malfunctioned this morning.",
+          "ko": "오늘 아침에 프린터가 오작동했다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "lay",
+      "term": "lay",
+      "category": "사무 업무",
+      "batch": "세 번째 기록",
+      "note": "lay–laid–laid. lay는 무엇을 놓는지 목적어가 필요합니다. lie(눕다)–lay–lain과 구분하세요.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "lay-s1",
+          "pos": "v.",
+          "meaning": "놓다; 두다",
+          "en": "Please lay the documents on the desk.",
+          "ko": "서류를 책상 위에 놓아 주세요.",
+          "highlight": true
+        },
+        {
+          "id": "lay-s2",
+          "pos": "v.",
+          "meaning": "설치하다; 깔다",
+          "en": "Workers are laying new cables.",
+          "ko": "작업자들이 새 케이블을 설치하고 있다.",
+          "highlight": false
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "layout",
+      "term": "layout",
+      "category": "사무 업무",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "layout-s1",
+          "pos": "n.",
+          "meaning": "배치; 구성",
+          "en": "The designer revised the office layout.",
+          "ko": "디자이너가 사무실 배치를 수정했다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "handy",
+      "term": "handy",
+      "category": "사무 업무",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "handy-s1",
+          "pos": "a.",
+          "meaning": "편리한; 유용한",
+          "en": "This guide is handy for new employees.",
+          "ko": "이 안내서는 신입 직원에게 유용하다.",
+          "highlight": true
+        },
+        {
+          "id": "handy-s2",
+          "pos": "a.",
+          "meaning": "가까이 있어 바로 쓸 수 있는",
+          "en": "Keep your ticket handy.",
+          "ko": "표를 바로 꺼낼 수 있는 곳에 두세요.",
+          "highlight": false
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "hands-on",
+      "term": "hands-on",
+      "category": "사무 업무",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "hands-on-s1",
+          "pos": "a.",
+          "meaning": "직접 해 보는; 실습의",
+          "en": "The course includes hands-on training.",
+          "ko": "그 강좌에는 실습 교육이 포함된다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "globe",
+      "term": "globe",
+      "category": "사무 업무",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "globe-s1",
+          "pos": "n.",
+          "meaning": "세계; 지구",
+          "en": "The company has offices around the globe.",
+          "ko": "그 회사는 전 세계에 사무소가 있다.",
+          "highlight": true
+        },
+        {
+          "id": "globe-s2",
+          "pos": "n.",
+          "meaning": "지구본",
+          "en": "A globe stands near the window.",
+          "ko": "창문 옆에 지구본이 있다.",
+          "highlight": false
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "wire",
+      "term": "wire",
+      "category": "사무 업무",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "wire-s1",
+          "pos": "v.",
+          "meaning": "송금하다",
+          "en": "Please wire the deposit by Friday.",
+          "ko": "금요일까지 보증금을 송금해 주세요.",
+          "highlight": true
+        },
+        {
+          "id": "wire-s2",
+          "pos": "n.",
+          "meaning": "전선; 철사",
+          "en": "An electrician replaced the damaged wire.",
+          "ko": "전기 기사가 손상된 전선을 교체했다.",
+          "highlight": false
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "commute",
+      "term": "commute",
+      "category": "사무 업무",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "commute-s1",
+          "pos": "v.",
+          "meaning": "통근하다",
+          "en": "She commutes by train.",
+          "ko": "그녀는 기차로 통근한다.",
+          "highlight": true
+        },
+        {
+          "id": "commute-s2",
+          "pos": "n.",
+          "meaning": "통근; 통근 거리 또는 시간",
+          "en": "My daily commute takes an hour.",
+          "ko": "내 매일 통근 시간은 한 시간이다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "telecommute",
+      "term": "telecommute",
+      "category": "사무 업무",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "telecommute-s1",
+          "pos": "v.",
+          "meaning": "재택근무하다; 원격 근무하다",
+          "en": "Employees may telecommute twice a week.",
+          "ko": "직원은 일주일에 두 번 원격 근무를 할 수 있다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "coordinate",
+      "term": "coordinate",
+      "category": "사무 업무",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "coordinate-s1",
+          "pos": "v.",
+          "meaning": "조정하다; 조율하다",
+          "en": "She coordinates deliveries with suppliers.",
+          "ko": "그녀는 공급업체와 배송을 조율한다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "measure",
+      "term": "measure",
+      "category": "사무 업무",
+      "batch": "세 번째 기록",
+      "note": "take measures 조치를 취하다. measure는 동사로는 측정하다입니다.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "measure-s1",
+          "pos": "n.",
+          "meaning": "조치; 대책",
+          "en": "The company introduced new safety measures.",
+          "ko": "회사는 새로운 안전 조치를 도입했다.",
+          "highlight": true
+        },
+        {
+          "id": "measure-s2",
+          "pos": "v.",
+          "meaning": "측정하다",
+          "en": "Please measure the width of the doorway.",
+          "ko": "출입구의 너비를 측정해 주세요.",
+          "highlight": false
+        },
+        {
+          "id": "measure-s3",
+          "pos": "n.",
+          "meaning": "척도; 기준",
+          "en": "Customer satisfaction is a measure of success.",
+          "ko": "고객 만족은 성공의 척도다.",
+          "highlight": false
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "go-over",
+      "term": "go over",
+      "category": "표현 문법",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "go-over-s1",
+          "pos": "phr.v.",
+          "meaning": "점검하다; 검토하다",
+          "en": "Let's go over the contract together.",
+          "ko": "계약서를 함께 검토합시다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "go-through",
+      "term": "go through",
+      "category": "표현 문법",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "go-through-s1",
+          "pos": "phr.v.",
+          "meaning": "겪다; 거치다",
+          "en": "All applicants go through an interview.",
+          "ko": "모든 지원자는 면접을 거친다.",
+          "highlight": true
+        },
+        {
+          "id": "go-through-s2",
+          "pos": "phr.v.",
+          "meaning": "꼼꼼히 살펴보다",
+          "en": "Please go through the files for errors.",
+          "ko": "파일에 오류가 있는지 꼼꼼히 살펴보세요.",
+          "highlight": false
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "hand-out",
+      "term": "hand out",
+      "category": "표현 문법",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "Hands out을 기본형 hand out으로 정리했습니다. pass out과 별도 항목으로 수록했습니다.",
+      "senses": [
+        {
+          "id": "hand-out-s1",
+          "pos": "phr.v.",
+          "meaning": "나눠주다; 배포하다",
+          "en": "Staff will hand out brochures.",
+          "ko": "직원이 안내 책자를 나눠줄 것이다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "pass-out",
+      "term": "pass out",
+      "category": "표현 문법",
+      "batch": "세 번째 기록",
+      "note": "pass out + 물건은 배포하다. 목적어 없이 사람이 pass out 하면 기절하다입니다.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "pass-out-s1",
+          "pos": "phr.v.",
+          "meaning": "나눠주다; 배포하다",
+          "en": "Please pass out the worksheets.",
+          "ko": "학습지를 나눠 주세요.",
+          "highlight": true
+        },
+        {
+          "id": "pass-out-s2",
+          "pos": "phr.v.",
+          "meaning": "기절하다",
+          "en": "A visitor passed out in the heat.",
+          "ko": "방문객 한 명이 더위에 기절했다.",
+          "highlight": false
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "kick-off",
+      "term": "kick off",
+      "category": "표현 문법",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "kick-off-s1",
+          "pos": "phr.v.",
+          "meaning": "시작하다",
+          "en": "The conference kicks off on Monday.",
+          "ko": "회의는 월요일에 시작한다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "look-up",
+      "term": "look up",
+      "category": "표현 문법",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "look-up-s1",
+          "pos": "phr.v.",
+          "meaning": "찾아보다",
+          "en": "You can look up the schedule online.",
+          "ko": "온라인으로 일정을 찾아볼 수 있다.",
+          "highlight": true
+        },
+        {
+          "id": "look-up-s2",
+          "pos": "phr.v.",
+          "meaning": "상황이 좋아지다",
+          "en": "Business is looking up.",
+          "ko": "사업 상황이 나아지고 있다.",
+          "highlight": false
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "expire",
+      "term": "expire",
+      "category": "사무 업무",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "expire-s1",
+          "pos": "v.",
+          "meaning": "만료되다; 기한이 끝나다",
+          "en": "Your membership expires next month.",
+          "ko": "회원 자격이 다음 달에 만료된다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "economical",
+      "term": "economical",
+      "category": "사무 업무",
+      "batch": "세 번째 기록",
+      "note": "economical은 비용·자원을 아끼는. economic은 경제·경제학과 관련된이라는 뜻입니다.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "economical-s1",
+          "pos": "a.",
+          "meaning": "경제적인; 실속 있는",
+          "en": "This printer is economical to operate.",
+          "ko": "이 프린터는 운영 비용이 적게 든다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "flyer",
+      "term": "flyer",
+      "category": "사무 업무",
+      "batch": "세 번째 기록",
+      "note": "flier도 같은 뜻으로 쓰는 표기입니다.",
+      "correction": "",
+      "senses": [
+        {
+          "id": "flyer-s1",
+          "pos": "n.",
+          "meaning": "전단; 광고지",
+          "en": "We distributed flyers near the station.",
+          "ko": "우리는 역 근처에서 전단을 배포했다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "rely-on",
+      "term": "rely on",
+      "category": "표현 문법",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "rely-on-s1",
+          "pos": "phr.v.",
+          "meaning": "~에 의존하다; ~을 믿다",
+          "en": "We rely on local suppliers.",
+          "ko": "우리는 지역 공급업체에 의존한다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "grant",
+      "term": "grant",
+      "category": "사무 업무",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "grant-s1",
+          "pos": "n.",
+          "meaning": "보조금; 지원금",
+          "en": "The museum received a grant for repairs.",
+          "ko": "박물관은 보수를 위한 지원금을 받았다.",
+          "highlight": true
+        },
+        {
+          "id": "grant-s2",
+          "pos": "v.",
+          "meaning": "주다; 수여하다; 허가하다",
+          "en": "The manager granted my request for leave.",
+          "ko": "관리자가 내 휴가 요청을 승인했다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "affordable",
+      "term": "affordable",
+      "category": "사무 업무",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "affordable-s1",
+          "pos": "a.",
+          "meaning": "가격이 알맞은; 감당할 수 있는",
+          "en": "The hotel offers affordable rooms.",
+          "ko": "그 호텔은 가격이 합리적인 객실을 제공한다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "district",
+      "term": "district",
+      "category": "사무 업무",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "district-s1",
+          "pos": "n.",
+          "meaning": "지역; 지구",
+          "en": "Our office is in the business district.",
+          "ko": "우리 사무실은 업무 지구에 있다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "range",
+      "term": "range",
+      "category": "사무 업무",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "range-s1",
+          "pos": "v.",
+          "meaning": "범위가 ~에 이르다",
+          "en": "Prices range from $20 to $50.",
+          "ko": "가격은 20달러에서 50달러까지이다.",
+          "highlight": true
+        },
+        {
+          "id": "range-s2",
+          "pos": "n.",
+          "meaning": "범위; 다양한 종류",
+          "en": "The store offers a wide range of products.",
+          "ko": "그 매장은 다양한 제품을 제공한다.",
+          "highlight": false
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "a-range-of",
+      "term": "a range of",
+      "category": "표현 문법",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "a-range-of-s1",
+          "pos": "phr.",
+          "meaning": "다양한; 여러 종류의",
+          "en": "We offer a range of training courses.",
+          "ko": "우리는 다양한 교육 과정을 제공한다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "fall-short-of",
+      "term": "fall short of",
+      "category": "표현 문법",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "fall-short-of-s1",
+          "pos": "phr.v.",
+          "meaning": "~에 부족하다; ~에 못 미치다",
+          "en": "Sales fell short of our target.",
+          "ko": "매출이 목표에 못 미쳤다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "make-up-for",
+      "term": "make up for",
+      "category": "표현 문법",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "make-up-for-s1",
+          "pos": "phr.v.",
+          "meaning": "~을 벌충하다; 보상하다",
+          "en": "The discount will make up for the delay.",
+          "ko": "할인이 지연에 대한 보상이 될 것이다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "put-together",
+      "term": "put together",
+      "category": "표현 문법",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "put-together-s1",
+          "pos": "phr.v.",
+          "meaning": "합치다; 조립하다",
+          "en": "We put together the new desks.",
+          "ko": "우리는 새 책상들을 조립했다.",
+          "highlight": true
+        },
+        {
+          "id": "put-together-s2",
+          "pos": "phr.v.",
+          "meaning": "준비하다; 구성하다",
+          "en": "She put together a detailed proposal.",
+          "ko": "그녀는 상세한 제안서를 마련했다.",
+          "highlight": false
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "run-into",
+      "term": "run into",
+      "category": "표현 문법",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "run-into-s1",
+          "pos": "phr.v.",
+          "meaning": "우연히 마주치다; 곤경에 부딪히다",
+          "en": "We ran into some problems during installation.",
+          "ko": "설치 중에 몇 가지 문제에 부딪혔다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "run-out-of",
+      "term": "run out of",
+      "category": "표현 문법",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "run-out-of-s1",
+          "pos": "phr.v.",
+          "meaning": "~이 다 떨어지다",
+          "en": "We have run out of envelopes.",
+          "ko": "우리는 봉투가 다 떨어졌다.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "stick-to",
+      "term": "stick to",
+      "category": "표현 문법",
+      "batch": "세 번째 기록",
+      "note": "",
+      "correction": "",
+      "senses": [
+        {
+          "id": "stick-to-s1",
+          "pos": "phr.v.",
+          "meaning": "~을 고수하다; 지키다",
+          "en": "Please stick to the agreed schedule.",
+          "ko": "합의한 일정을 지켜 주세요.",
+          "highlight": true
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "업무·생활 문장의 의미와 표현을 익히기 위한 학습 항목입니다.",
         "basis": "editorial-toeic-v1"
       }
     }
