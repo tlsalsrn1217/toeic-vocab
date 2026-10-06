@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-04",
+  "updated": "2026-10-06",
   "words": [
     {
       "id": "apron",
@@ -8558,6 +8558,2068 @@
       "importance": {
         "level": 3,
         "reason": "업무·생활 문장과 어휘·구문 구별에 유용한 학습 항목입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "craft",
+      "term": "craft",
+      "category": "시설 생활",
+      "note": "craft fair 공예 박람회. craftsman 장인, craftsmanship 솜씨.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "craft-s1",
+          "pos": "n.",
+          "meaning": "공예; 공예품",
+          "highlight": true,
+          "en": "The market sells local crafts and jewelry.",
+          "ko": "그 시장은 지역 공예품과 장신구를 판다."
+        },
+        {
+          "id": "craft-s2",
+          "pos": "n.",
+          "meaning": "기술; 솜씨",
+          "highlight": false,
+          "en": "He has spent years perfecting his craft.",
+          "ko": "그는 수년간 자신의 기술을 갈고닦았다."
+        },
+        {
+          "id": "craft-s3",
+          "pos": "v.",
+          "meaning": "정교하게 만들다",
+          "highlight": false,
+          "en": "Each chair is carefully crafted by hand.",
+          "ko": "의자 하나하나가 손으로 정성껏 만들어진다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "공예 박람회·지역 행사 지문에 쓰이며 동사 뜻도 함께 나옵니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "handcrafted",
+      "term": "handcrafted",
+      "category": "시설 생활",
+      "note": "handcrafted furniture 수제 가구. = handmade.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "handcrafted-s1",
+          "pos": "a.",
+          "meaning": "수제의; 손으로 만든",
+          "highlight": true,
+          "en": "The shop specializes in handcrafted pottery.",
+          "ko": "그 가게는 수제 도자기를 전문으로 한다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "제품 광고에서 handmade와 패러프레이즈되는 형용사입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "implement",
+      "term": "implement",
+      "category": "사무 업무",
+      "note": "implement a policy 정책을 시행하다. implementation 시행. 명사로는 도구.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "implement-s1",
+          "pos": "v.",
+          "meaning": "시행하다; 실행하다",
+          "highlight": true,
+          "en": "The company will implement the new policy next month.",
+          "ko": "회사는 다음 달에 새 정책을 시행할 것이다."
+        },
+        {
+          "id": "implement-s2",
+          "pos": "n.",
+          "meaning": "도구; 기구",
+          "highlight": false,
+          "en": "Garden implements are stored in the shed.",
+          "ko": "정원 도구는 창고에 보관되어 있다."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "정책·계획 시행 문맥의 핵심 동사이며 품사 문제로 자주 출제됩니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "complement",
+      "term": "complement",
+      "category": "표현 문법",
+      "note": "complement each other 서로 보완하다. complementary 보완적인. compliment(칭찬)와 철자 구분.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "complement-s1",
+          "pos": "v.",
+          "meaning": "보완하다; 잘 어울리게 하다",
+          "highlight": true,
+          "en": "The wine complements the meal perfectly.",
+          "ko": "그 와인은 식사와 완벽하게 어울린다."
+        },
+        {
+          "id": "complement-s2",
+          "pos": "n.",
+          "meaning": "보완물; 보충물",
+          "highlight": false,
+          "en": "The online course is a useful complement to classroom training.",
+          "ko": "온라인 강좌는 교실 교육에 유용한 보완물이다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "compliment, complimentary와 철자·의미 혼동 문제로 자주 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "banquet",
+      "term": "banquet",
+      "category": "시설 생활",
+      "note": "banquet hall 연회장. awards banquet 시상 연회.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "banquet-s1",
+          "pos": "n.",
+          "meaning": "연회; 만찬",
+          "highlight": true,
+          "en": "The annual banquet will be held at the Grand Hotel.",
+          "ko": "연례 연회는 그랜드 호텔에서 열린다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "행사 준비·호텔 시설 지문에서 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "loan",
+      "term": "loan",
+      "category": "거래 금융",
+      "note": "take out a loan 대출을 받다. loan application 대출 신청서.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "loan-s1",
+          "pos": "n.",
+          "meaning": "대출(금); 융자",
+          "highlight": true,
+          "en": "She applied for a loan to expand her bakery.",
+          "ko": "그녀는 빵집을 확장하려고 대출을 신청했다."
+        },
+        {
+          "id": "loan-s2",
+          "pos": "v.",
+          "meaning": "빌려주다; 대여하다",
+          "highlight": false,
+          "en": "The museum loaned several paintings to the gallery.",
+          "ko": "박물관은 그 갤러리에 그림 몇 점을 대여했다."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "은행·자금 조달 지문의 기본 어휘입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "prompt",
+      "term": "prompt",
+      "category": "표현 문법",
+      "note": "prompt reply 신속한 답장. promptly 신속히; 정각에 (at 9 promptly 9시 정각에).",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "prompt-s1",
+          "pos": "a.",
+          "meaning": "신속한; 즉각적인",
+          "highlight": true,
+          "en": "Thank you for your prompt response.",
+          "ko": "신속하게 답변해 주셔서 감사합니다."
+        },
+        {
+          "id": "prompt-s2",
+          "pos": "v.",
+          "meaning": "촉발하다; 유도하다",
+          "highlight": false,
+          "en": "The complaints prompted a review of the policy.",
+          "ko": "불만이 제기되어 정책 검토가 이루어졌다."
+        },
+        {
+          "id": "prompt-s3",
+          "pos": "n.",
+          "meaning": "(입력) 안내 메시지",
+          "highlight": false,
+          "en": "Follow the prompts on the screen.",
+          "ko": "화면의 안내 메시지를 따르세요."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "형용사 prompt와 부사 promptly 모두 품사·의미 문제로 빈출입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "excess",
+      "term": "excess",
+      "category": "거래 금융",
+      "note": "in excess of ~을 초과하여. excess baggage 초과 수하물.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "excess-s1",
+          "pos": "n.",
+          "meaning": "초과; 과잉",
+          "highlight": true,
+          "en": "Orders in excess of $100 ship for free.",
+          "ko": "100달러를 초과하는 주문은 무료 배송된다."
+        },
+        {
+          "id": "excess-s2",
+          "pos": "a.",
+          "meaning": "초과한; 여분의",
+          "highlight": false,
+          "en": "Passengers must pay for excess baggage.",
+          "ko": "승객은 초과 수하물 요금을 내야 한다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "excess, excessive, exceed의 품사 구분이 출제 포인트입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "excessive",
+      "term": "excessive",
+      "category": "표현 문법",
+      "note": "excessive noise 과도한 소음. excessively 지나치게.",
+      "correction": "중복된 Excessive 항목을 하나로 통합했습니다.",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "excessive-s1",
+          "pos": "a.",
+          "meaning": "과도한; 지나친",
+          "highlight": true,
+          "en": "Residents complained about excessive noise from the construction site.",
+          "ko": "주민들이 공사장의 과도한 소음에 불만을 제기했다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "부정적 평가를 나타내는 형용사로 excess와 품사 구별이 필요합니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "combine",
+      "term": "combine",
+      "category": "표현 문법",
+      "note": "combine A with B A와 B를 결합하다. combination 결합.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "combine-s1",
+          "pos": "v.",
+          "meaning": "결합하다; 합치다",
+          "highlight": true,
+          "en": "The tour combines sightseeing with shopping.",
+          "ko": "그 투어는 관광과 쇼핑을 결합한다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "combine A with B 구문으로 독해에서 자주 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "admission",
+      "term": "admission",
+      "category": "시설 생활",
+      "note": "admission fee 입장료. free admission 무료 입장.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "admission-s1",
+          "pos": "n.",
+          "meaning": "입장; 입장료",
+          "highlight": true,
+          "en": "Admission to the museum is free on Sundays.",
+          "ko": "일요일에는 박물관 입장이 무료이다."
+        },
+        {
+          "id": "admission-s2",
+          "pos": "n.",
+          "meaning": "입학; 입회 허가",
+          "highlight": false,
+          "en": "She received admission to the business school.",
+          "ko": "그녀는 경영대학원 입학 허가를 받았다."
+        },
+        {
+          "id": "admission-s3",
+          "pos": "n.",
+          "meaning": "시인; 인정",
+          "highlight": false,
+          "en": "His admission of the mistake surprised everyone.",
+          "ko": "그가 실수를 인정해서 모두가 놀랐다."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "행사·박물관 안내문의 빈출 명사입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "proofread",
+      "term": "proofread",
+      "category": "사무 업무",
+      "note": "proofread-proofread-proofread. proofreader 교정자.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "proofread-s1",
+          "pos": "v.",
+          "meaning": "교정을 보다",
+          "highlight": true,
+          "en": "Please proofread the report before sending it.",
+          "ko": "보고서를 보내기 전에 교정을 봐 주세요."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "문서 작성·출판 업무 문맥에서 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "sustain",
+      "term": "sustain",
+      "category": "표현 문법",
+      "note": "sustain growth 성장을 유지하다. sustain damage 손상을 입다.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "sustain-s1",
+          "pos": "v.",
+          "meaning": "유지하다; 지속하다",
+          "highlight": true,
+          "en": "The company has sustained steady growth for ten years.",
+          "ko": "그 회사는 10년간 꾸준한 성장을 유지해 왔다."
+        },
+        {
+          "id": "sustain-s2",
+          "pos": "v.",
+          "meaning": "(손해·부상을) 입다",
+          "highlight": true,
+          "en": "The building sustained minor damage in the storm.",
+          "ko": "그 건물은 폭풍으로 경미한 피해를 입었다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "유지하다와 (손해를) 입다의 두 의미를 구분해야 합니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "sustainable",
+      "term": "sustainable",
+      "category": "표현 문법",
+      "note": "sustainable materials 친환경 소재. sustainability 지속 가능성.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "sustainable-s1",
+          "pos": "a.",
+          "meaning": "지속 가능한",
+          "highlight": true,
+          "en": "The city aims for sustainable economic growth.",
+          "ko": "시는 지속 가능한 경제 성장을 목표로 한다."
+        },
+        {
+          "id": "sustainable-s2",
+          "pos": "a.",
+          "meaning": "환경 친화적인",
+          "highlight": true,
+          "en": "The furniture is made from sustainable wood.",
+          "ko": "그 가구는 친환경 목재로 만들어졌다."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "친환경 경영·제품 지문에서 매우 자주 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "apparel",
+      "term": "apparel",
+      "category": "거래 금융",
+      "note": "apparel store 의류 매장. = clothing.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "apparel-s1",
+          "pos": "n.",
+          "meaning": "의류; 의복",
+          "highlight": true,
+          "en": "The store sells outdoor apparel and equipment.",
+          "ko": "그 매장은 아웃도어 의류와 장비를 판다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "의류 업체 소개에서 clothing과 패러프레이즈됩니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "eligible",
+      "term": "eligible",
+      "category": "고용 인사",
+      "note": "be eligible for ~에 자격이 있다. be eligible to do ~할 자격이 있다. eligibility 자격.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "eligible-s1",
+          "pos": "a.",
+          "meaning": "자격이 있는; 적격의",
+          "highlight": true,
+          "en": "Full-time employees are eligible for the bonus.",
+          "ko": "정규직 직원은 보너스를 받을 자격이 있다."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "be eligible for/to do 구문이 혜택·지원 자격 문맥에서 빈출입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "comply",
+      "term": "comply",
+      "category": "표현 문법",
+      "note": "comply with ~을 준수하다. 자동사라 with가 필요.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "comply-s1",
+          "pos": "v.",
+          "meaning": "(comply with) 준수하다; 따르다",
+          "highlight": true,
+          "en": "All products must comply with safety regulations.",
+          "ko": "모든 제품은 안전 규정을 준수해야 한다."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "comply with 전치사 결합이 Part 5에서 빈출입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "compliance",
+      "term": "compliance",
+      "category": "표현 문법",
+      "note": "in compliance with ~을 준수하여.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "compliance-s1",
+          "pos": "n.",
+          "meaning": "준수",
+          "highlight": true,
+          "en": "The factory operates in compliance with environmental laws.",
+          "ko": "그 공장은 환경법을 준수하며 운영된다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "in compliance with 표현과 동사 comply의 품사 구분이 출제됩니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "consistently",
+      "term": "consistently",
+      "category": "표현 문법",
+      "note": "consistently high quality 꾸준히 높은 품질.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "consistently-s1",
+          "pos": "adv.",
+          "meaning": "꾸준히; 일관되게",
+          "highlight": true,
+          "en": "The restaurant consistently receives excellent reviews.",
+          "ko": "그 식당은 꾸준히 훌륭한 평가를 받는다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "동사·형용사를 수식하는 부사 자리 문제로 출제됩니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "consistent",
+      "term": "consistent",
+      "category": "표현 문법",
+      "note": "be consistent with ~와 일치하다. consistency 일관성.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "consistent-s1",
+          "pos": "a.",
+          "meaning": "일관된; 한결같은",
+          "highlight": true,
+          "en": "We provide consistent service at all locations.",
+          "ko": "저희는 모든 지점에서 한결같은 서비스를 제공합니다."
+        },
+        {
+          "id": "consistent-s2",
+          "pos": "a.",
+          "meaning": "(be consistent with) ~와 일치하는",
+          "highlight": false,
+          "en": "The results are consistent with our earlier findings.",
+          "ko": "그 결과는 이전 조사 결과와 일치한다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "be consistent with 구문과 부사형 consistently 구분이 필요합니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "deface",
+      "term": "deface",
+      "category": "시설 생활",
+      "note": "deface public property 공공 기물을 훼손하다.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "deface-s1",
+          "pos": "v.",
+          "meaning": "외관을 훼손하다; 낙서하다",
+          "highlight": true,
+          "en": "Anyone who defaces park property will be fined.",
+          "ko": "공원 시설을 훼손하는 사람에게는 벌금이 부과된다."
+        }
+      ],
+      "importance": {
+        "level": 1,
+        "reason": "시설 이용 규칙 공지에서 가끔 쓰이는 어휘입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "pot",
+      "term": "pot",
+      "category": "사진 묘사",
+      "note": "potted plant 화분에 심은 식물. pottery 도자기.",
+      "correction": "‘향아리’를 ‘항아리’로 바로잡았습니다.",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "pot-s1",
+          "pos": "n.",
+          "meaning": "화분",
+          "highlight": true,
+          "en": "Some flowers have been planted in pots.",
+          "ko": "꽃 몇 송이가 화분에 심어져 있다."
+        },
+        {
+          "id": "pot-s2",
+          "pos": "n.",
+          "meaning": "냄비; 항아리",
+          "highlight": true,
+          "en": "A cook is stirring a large pot of soup.",
+          "ko": "요리사가 큰 수프 냄비를 젓고 있다."
+        },
+        {
+          "id": "pot-s3",
+          "pos": "v.",
+          "meaning": "화분에 심다",
+          "highlight": true,
+          "en": "A woman is potting a plant.",
+          "ko": "한 여자가 식물을 화분에 심고 있다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "Part 1에서 화분·냄비 사진 묘사에 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "pottery",
+      "term": "pottery",
+      "category": "시설 생활",
+      "note": "pottery class 도예 수업. potter 도공.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "pottery-s1",
+          "pos": "n.",
+          "meaning": "도자기; 도예",
+          "highlight": true,
+          "en": "The community center offers pottery classes.",
+          "ko": "주민 센터는 도예 수업을 운영한다."
+        }
+      ],
+      "importance": {
+        "level": 1,
+        "reason": "공예·문화 강좌 지문에서 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "fountain",
+      "term": "fountain",
+      "category": "사진 묘사",
+      "note": "water fountain 분수식 식수대. drinking fountain 음수대.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "fountain-s1",
+          "pos": "n.",
+          "meaning": "분수",
+          "highlight": true,
+          "en": "People are sitting around a fountain.",
+          "ko": "사람들이 분수 주위에 앉아 있다."
+        },
+        {
+          "id": "fountain-s2",
+          "pos": "n.",
+          "meaning": "(drinking fountain) 음수대",
+          "highlight": false,
+          "en": "There is a drinking fountain near the entrance.",
+          "ko": "입구 근처에 음수대가 있다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "Part 1 공원·광장 사진에 자주 나오는 구체 명사입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "alternate",
+      "term": "alternate",
+      "category": "표현 문법",
+      "note": "alternate route 우회로. alternative와 비슷한 형용사. 동사로 번갈아 하다.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "alternate-s1",
+          "pos": "a.",
+          "meaning": "대안의; 대체의",
+          "highlight": true,
+          "en": "Please use the alternate entrance during construction.",
+          "ko": "공사 중에는 대체 출입구를 이용해 주세요."
+        },
+        {
+          "id": "alternate-s2",
+          "pos": "v.",
+          "meaning": "번갈아 하다; 교대하다",
+          "highlight": false,
+          "en": "Staff alternate between day and night shifts.",
+          "ko": "직원들은 주간과 야간 근무를 번갈아 한다."
+        },
+        {
+          "id": "alternate-s3",
+          "pos": "a.",
+          "meaning": "하나 걸러의; 격~",
+          "highlight": false,
+          "en": "The class meets on alternate Fridays.",
+          "ko": "그 수업은 격주 금요일에 열린다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "alternative와 비교해 형용사·동사 의미를 구분하세요.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "abundant",
+      "term": "abundant",
+      "category": "표현 문법",
+      "note": "abundant resources 풍부한 자원. abundance 풍부.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "abundant-s1",
+          "pos": "a.",
+          "meaning": "풍부한; 많은",
+          "highlight": true,
+          "en": "The region has abundant natural resources.",
+          "ko": "그 지역은 천연자원이 풍부하다."
+        }
+      ],
+      "importance": {
+        "level": 1,
+        "reason": "자원·기회의 풍부함을 묘사하는 형용사입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "assess",
+      "term": "assess",
+      "category": "사무 업무",
+      "note": "assess the damage 피해를 평가하다. assessment 평가.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "assess-s1",
+          "pos": "v.",
+          "meaning": "평가하다; 가늠하다",
+          "highlight": true,
+          "en": "Experts will assess the condition of the building.",
+          "ko": "전문가들이 건물 상태를 평가할 것이다."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "평가·검토 문맥에서 evaluate와 패러프레이즈되는 빈출 동사입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "adapt",
+      "term": "adapt",
+      "category": "표현 문법",
+      "note": "adapt to ~에 적응하다. adapt A for B A를 B에 맞게 고치다. adopt(채택하다)와 철자 구분.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "adapt-s1",
+          "pos": "v.",
+          "meaning": "적응하다",
+          "highlight": true,
+          "en": "New employees quickly adapted to the system.",
+          "ko": "신입 직원들은 시스템에 빠르게 적응했다."
+        },
+        {
+          "id": "adapt-s2",
+          "pos": "v.",
+          "meaning": "맞추다; 각색하다",
+          "highlight": false,
+          "en": "The novel was adapted for television.",
+          "ko": "그 소설은 텔레비전용으로 각색되었다."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "adopt와의 철자 혼동 문제가 자주 출제됩니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "adopt",
+      "term": "adopt",
+      "category": "표현 문법",
+      "note": "adopt a policy 정책을 채택하다. adoption 채택. adapt(적응하다)와 철자 구분.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "adopt-s1",
+          "pos": "v.",
+          "meaning": "채택하다",
+          "highlight": true,
+          "en": "The board voted to adopt the new budget.",
+          "ko": "이사회는 새 예산안을 채택하기로 의결했다."
+        },
+        {
+          "id": "adopt-s2",
+          "pos": "v.",
+          "meaning": "입양하다",
+          "highlight": false,
+          "en": "They adopted a dog from the shelter.",
+          "ko": "그들은 보호소에서 개를 입양했다."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "adapt와의 철자 혼동 문제가 자주 출제됩니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "commerce",
+      "term": "commerce",
+      "category": "거래 금융",
+      "note": "chamber of commerce 상공회의소. e-commerce 전자 상거래.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "commerce-s1",
+          "pos": "n.",
+          "meaning": "상업; 통상",
+          "highlight": true,
+          "en": "The local chamber of commerce supports small businesses.",
+          "ko": "지역 상공회의소는 소규모 업체를 지원한다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "chamber of commerce, e-commerce 표현으로 지문에 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "commence",
+      "term": "commence",
+      "category": "표현 문법",
+      "note": "commence = begin, start의 격식체. commencement 시작, 졸업식.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "commence-s1",
+          "pos": "v.",
+          "meaning": "시작하다; 시작되다",
+          "highlight": true,
+          "en": "Construction will commence in early May.",
+          "ko": "공사는 5월 초에 시작될 예정이다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "begin의 격식 표현으로 공지문에서 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "competence",
+      "term": "competence",
+      "category": "고용 인사",
+      "note": "competent 유능한. competition(경쟁)과 구분.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "competence-s1",
+          "pos": "n.",
+          "meaning": "능력; 역량",
+          "highlight": true,
+          "en": "The training improves employees' technical competence.",
+          "ko": "그 교육은 직원들의 기술 역량을 향상시킨다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "직무 능력 평가 문맥에서 쓰이며 competent와 품사 구분이 필요합니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "keynote",
+      "term": "keynote",
+      "category": "사무 업무",
+      "note": "keynote speech 기조연설. keynote speaker 기조연설자.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "keynote-s1",
+          "pos": "n.",
+          "meaning": "기조; 요지",
+          "highlight": true,
+          "en": "Innovation was the keynote of the conference.",
+          "ko": "혁신이 그 회의의 기조였다."
+        },
+        {
+          "id": "keynote-s2",
+          "pos": "a.",
+          "meaning": "기조연설의",
+          "highlight": true,
+          "en": "The CEO will deliver the keynote address.",
+          "ko": "최고경영자가 기조연설을 할 것이다."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "학회·컨퍼런스 지문의 빈출 표현입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "norm",
+      "term": "norm",
+      "category": "표현 문법",
+      "note": "the norm 일반적인 것. normal 보통의.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "norm-s1",
+          "pos": "n.",
+          "meaning": "규범; 기준; 일반적인 것",
+          "highlight": true,
+          "en": "Remote work has become the norm in our industry.",
+          "ko": "원격 근무가 우리 업계에서 일반적인 것이 되었다."
+        }
+      ],
+      "importance": {
+        "level": 1,
+        "reason": "업계 관행·기준을 설명하는 지문에서 가끔 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "bid",
+      "term": "bid",
+      "category": "거래 금융",
+      "note": "bid for/on ~에 입찰하다. submit a bid 입찰서를 제출하다. winning bid 낙찰.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "bid-s1",
+          "pos": "n.",
+          "meaning": "입찰; 입찰가",
+          "highlight": true,
+          "en": "Three companies submitted bids for the project.",
+          "ko": "세 회사가 그 프로젝트에 입찰서를 제출했다."
+        },
+        {
+          "id": "bid-s2",
+          "pos": "v.",
+          "meaning": "입찰하다",
+          "highlight": true,
+          "en": "Several firms are bidding on the contract.",
+          "ko": "여러 회사가 그 계약에 입찰하고 있다."
+        },
+        {
+          "id": "bid-s3",
+          "pos": "n.",
+          "meaning": "시도; 노력",
+          "highlight": false,
+          "en": "The company cut prices in a bid to attract customers.",
+          "ko": "회사는 고객을 끌기 위해 가격을 인하했다."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "공사·계약 입찰 지문에서 자주 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "proceed",
+      "term": "proceed",
+      "category": "표현 문법",
+      "note": "proceed to ~로 이동하다. proceed with ~을 계속 진행하다. procedure 절차.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "proceed-s1",
+          "pos": "v.",
+          "meaning": "진행하다; 계속하다",
+          "highlight": true,
+          "en": "We will proceed with the plan as scheduled.",
+          "ko": "계획을 예정대로 진행하겠습니다."
+        },
+        {
+          "id": "proceed-s2",
+          "pos": "v.",
+          "meaning": "나아가다; 이동하다",
+          "highlight": true,
+          "en": "Passengers should proceed to Gate 12.",
+          "ko": "승객 여러분은 12번 게이트로 이동해 주세요."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "proceed to/with 구문과 proceeds(수익금) 구분이 중요합니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "proceeds",
+      "term": "proceeds",
+      "category": "거래 금융",
+      "note": "proceeds from the sale 판매 수익금. 항상 복수형.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "proceeds-s1",
+          "pos": "n.",
+          "meaning": "수익금",
+          "highlight": true,
+          "en": "All proceeds will go to the local hospital.",
+          "ko": "수익금 전액은 지역 병원에 기부된다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "자선 행사 지문에서 수익금 기부 문맥으로 자주 나옵니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "plumber",
+      "term": "plumber",
+      "category": "시설 생활",
+      "note": "plumbing 배관(공사), plumbing problem 배관 문제.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "plumber-s1",
+          "pos": "n.",
+          "meaning": "배관공",
+          "highlight": true,
+          "en": "We called a plumber to fix the leak.",
+          "ko": "누수를 고치려고 배관공을 불렀다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "시설 수리 문맥에서 plumbing과 함께 자주 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "accomplished",
+      "term": "accomplished",
+      "category": "고용 인사",
+      "note": "an accomplished pianist 뛰어난 피아니스트. accomplish 성취하다.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "accomplished-s1",
+          "pos": "a.",
+          "meaning": "뛰어난; 숙련된",
+          "highlight": true,
+          "en": "She is an accomplished chef with twenty years of experience.",
+          "ko": "그녀는 20년 경력의 뛰어난 요리사이다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "인물 소개·추천 지문에서 숙련도를 칭찬할 때 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "eager",
+      "term": "eager",
+      "category": "표현 문법",
+      "note": "be eager to do ~하기를 간절히 바라다. eagerly 열심히.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "eager-s1",
+          "pos": "a.",
+          "meaning": "열망하는; 간절히 바라는",
+          "highlight": true,
+          "en": "We are eager to hear your feedback.",
+          "ko": "여러분의 의견을 간절히 듣고 싶습니다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "be eager to do 구문으로 자주 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "row",
+      "term": "row",
+      "category": "사진 묘사",
+      "note": "in a row 일렬로; 연속으로. be arranged in rows 여러 줄로 배열되어 있다.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "row-s1",
+          "pos": "n.",
+          "meaning": "줄; 열",
+          "highlight": true,
+          "en": "Chairs have been arranged in rows.",
+          "ko": "의자들이 여러 줄로 배열되어 있다."
+        },
+        {
+          "id": "row-s2",
+          "pos": "n.",
+          "meaning": "(in a row) 연속",
+          "highlight": false,
+          "en": "The company won the award three years in a row.",
+          "ko": "그 회사는 3년 연속 그 상을 받았다."
+        },
+        {
+          "id": "row-s3",
+          "pos": "v.",
+          "meaning": "노를 젓다",
+          "highlight": false,
+          "en": "Some people are rowing a boat.",
+          "ko": "몇몇 사람이 보트의 노를 젓고 있다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "Part 1 좌석·물건 배열 묘사에 자주 등장합니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "preserve",
+      "term": "preserve",
+      "category": "시설 생활",
+      "note": "preserve historic buildings 역사적 건물을 보존하다. preservation 보존.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "preserve-s1",
+          "pos": "v.",
+          "meaning": "보존하다; 보호하다",
+          "highlight": true,
+          "en": "The city works to preserve its historic buildings.",
+          "ko": "시는 역사적 건물을 보존하기 위해 노력한다."
+        },
+        {
+          "id": "preserve-s2",
+          "pos": "n.",
+          "meaning": "보호구역",
+          "highlight": true,
+          "en": "The area is now a wildlife preserve.",
+          "ko": "그 지역은 현재 야생 동물 보호구역이다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "문화재·환경 보호 지문에서 쓰이며 conserve와 비교됩니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "conserve",
+      "term": "conserve",
+      "category": "시설 생활",
+      "note": "conserve energy 에너지를 절약하다. conservation 보존, 절약.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "conserve-s1",
+          "pos": "v.",
+          "meaning": "절약하다; 아끼다",
+          "highlight": true,
+          "en": "Please turn off the lights to conserve energy.",
+          "ko": "에너지를 절약하기 위해 불을 꺼 주세요."
+        },
+        {
+          "id": "conserve-s2",
+          "pos": "v.",
+          "meaning": "보존하다",
+          "highlight": true,
+          "en": "The project aims to conserve local wetlands.",
+          "ko": "그 사업은 지역 습지를 보존하는 것을 목표로 한다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "에너지·자원 절약 공지에서 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "stain",
+      "term": "stain",
+      "category": "시설 생활",
+      "note": "stain-resistant 얼룩이 잘 안 생기는. remove a stain 얼룩을 제거하다.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "stain-s1",
+          "pos": "n.",
+          "meaning": "얼룩",
+          "highlight": true,
+          "en": "This cleaner removes tough stains.",
+          "ko": "이 세제는 찌든 얼룩을 제거한다."
+        },
+        {
+          "id": "stain-s2",
+          "pos": "v.",
+          "meaning": "얼룩지게 하다",
+          "highlight": false,
+          "en": "Coffee stained the tablecloth.",
+          "ko": "커피가 식탁보에 얼룩을 남겼다."
+        }
+      ],
+      "importance": {
+        "level": 1,
+        "reason": "제품 설명·세탁 문맥에서 가끔 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "subsequent",
+      "term": "subsequent",
+      "category": "표현 문법",
+      "note": "subsequent to ~ 이후에. subsequently 그 후에.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "subsequent-s1",
+          "pos": "a.",
+          "meaning": "그 후의; 다음의",
+          "highlight": true,
+          "en": "Subsequent meetings will be held online.",
+          "ko": "이후 회의는 온라인으로 진행된다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "previous와 대비되는 시간 형용사로 독해·어휘 문제에 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "ballroom",
+      "term": "ballroom",
+      "category": "시설 생활",
+      "note": "hotel ballroom 호텔 연회장.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "ballroom-s1",
+          "pos": "n.",
+          "meaning": "무도회장; 볼룸; 연회장",
+          "highlight": true,
+          "en": "The reception will take place in the hotel ballroom.",
+          "ko": "환영회는 호텔 연회장에서 열린다."
+        }
+      ],
+      "importance": {
+        "level": 1,
+        "reason": "호텔 행사장 이름으로 등장합니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "furnishings",
+      "term": "furnishings",
+      "category": "시설 생활",
+      "note": "home furnishings 가정용 가구·비품. 보통 복수형.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "furnishings-s1",
+          "pos": "n.",
+          "meaning": "가구; 세간; 비품",
+          "highlight": true,
+          "en": "The hotel replaced all its room furnishings.",
+          "ko": "그 호텔은 객실 가구를 모두 교체했다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "부동산·인테리어 지문에서 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "furnished",
+      "term": "furnished",
+      "category": "시설 생활",
+      "note": "fully furnished apartment 가구가 완비된 아파트. unfurnished 가구 없는.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "furnished-s1",
+          "pos": "a.",
+          "meaning": "가구가 갖추어진",
+          "highlight": true,
+          "en": "The apartment comes fully furnished.",
+          "ko": "그 아파트는 가구가 모두 갖춰져 있다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "임대 광고에서 자주 쓰이는 형용사입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "exposition",
+      "term": "exposition",
+      "category": "사무 업무",
+      "note": "줄여서 expo. trade exposition 무역 박람회.",
+      "correction": "‘박랍회’를 ‘박람회’로 바로잡았습니다.",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "exposition-s1",
+          "pos": "n.",
+          "meaning": "박람회; 전시회",
+          "highlight": true,
+          "en": "The technology exposition attracts thousands of visitors.",
+          "ko": "그 기술 박람회는 수천 명의 방문객을 끌어모은다."
+        },
+        {
+          "id": "exposition-s2",
+          "pos": "n.",
+          "meaning": "설명; 해설",
+          "highlight": false,
+          "en": "The book offers a clear exposition of the theory.",
+          "ko": "그 책은 그 이론을 명확하게 설명한다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "박람회·전시회 지문에서 expo와 함께 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "itinerary",
+      "term": "itinerary",
+      "category": "시설 생활",
+      "note": "travel itinerary 여행 일정표.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "itinerary-s1",
+          "pos": "n.",
+          "meaning": "여행 일정(표)",
+          "highlight": true,
+          "en": "Your itinerary has been sent to your e-mail.",
+          "ko": "여행 일정표가 이메일로 발송되었습니다."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "출장·여행 지문의 핵심 명사입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "objective",
+      "term": "objective",
+      "category": "사무 업무",
+      "note": "achieve an objective 목표를 달성하다. 형용사로 객관적인.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "objective-s1",
+          "pos": "n.",
+          "meaning": "목표; 목적",
+          "highlight": true,
+          "en": "The main objective is to reduce costs.",
+          "ko": "주요 목표는 비용 절감이다."
+        },
+        {
+          "id": "objective-s2",
+          "pos": "a.",
+          "meaning": "객관적인",
+          "highlight": false,
+          "en": "We need an objective evaluation.",
+          "ko": "객관적인 평가가 필요하다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "목표를 뜻하는 명사로 goal과 패러프레이즈됩니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "revenue",
+      "term": "revenue",
+      "category": "거래 금융",
+      "note": "annual revenue 연간 수익. generate revenue 수익을 창출하다.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "revenue-s1",
+          "pos": "n.",
+          "meaning": "수익; 수입; 매출",
+          "highlight": true,
+          "en": "Revenue rose by 15 percent last quarter.",
+          "ko": "지난 분기 수익이 15퍼센트 증가했다."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "실적 보고 지문의 핵심 명사입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "transit",
+      "term": "transit",
+      "category": "시설 생활",
+      "note": "public transit 대중교통. in transit 운송 중.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "transit-s1",
+          "pos": "n.",
+          "meaning": "운송; 수송; 대중교통",
+          "highlight": true,
+          "en": "Your package is currently in transit.",
+          "ko": "고객님의 소포는 현재 운송 중입니다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "대중교통·배송 상태 문맥에서 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "transition",
+      "term": "transition",
+      "category": "사무 업무",
+      "note": "transition to ~로의 전환. smooth transition 원활한 이행.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "transition-s1",
+          "pos": "n.",
+          "meaning": "전환; 이행; 이동",
+          "highlight": true,
+          "en": "The transition to the new system went smoothly.",
+          "ko": "새 시스템으로의 전환이 순조롭게 이루어졌다."
+        },
+        {
+          "id": "transition-s2",
+          "pos": "v.",
+          "meaning": "전환하다; 이행하다",
+          "highlight": false,
+          "en": "The company is transitioning to online sales.",
+          "ko": "그 회사는 온라인 판매로 전환하는 중이다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "조직 변화·시스템 전환 지문에서 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "auditorium",
+      "term": "auditorium",
+      "category": "시설 생활",
+      "note": "main auditorium 대강당.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "auditorium-s1",
+          "pos": "n.",
+          "meaning": "강당; 객석",
+          "highlight": true,
+          "en": "The seminar will be held in the main auditorium.",
+          "ko": "세미나는 대강당에서 열린다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "행사 장소로 공지문에 자주 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "workforce",
+      "term": "workforce",
+      "category": "고용 인사",
+      "note": "skilled workforce 숙련된 인력. = staff, employees.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "workforce-s1",
+          "pos": "n.",
+          "meaning": "(회사의 모든) 직원; 노동력",
+          "highlight": true,
+          "en": "The company plans to expand its workforce by ten percent.",
+          "ko": "그 회사는 직원 수를 10퍼센트 늘릴 계획이다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "인력 규모·채용 지문에서 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "instrumental",
+      "term": "instrumental",
+      "category": "고용 인사",
+      "note": "be instrumental in -ing ~하는 데 중요한 역할을 하다.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "instrumental-s1",
+          "pos": "a.",
+          "meaning": "중요한 역할을 하는",
+          "highlight": true,
+          "en": "She was instrumental in launching the new product.",
+          "ko": "그녀는 신제품 출시에 중요한 역할을 했다."
+        },
+        {
+          "id": "instrumental-s2",
+          "pos": "a.",
+          "meaning": "악기의; 기악의",
+          "highlight": false,
+          "en": "The concert features instrumental music.",
+          "ko": "그 공연은 기악곡을 선보인다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "be instrumental in 구문으로 공로 인정 문맥에 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "momentarily",
+      "term": "momentarily",
+      "category": "표현 문법",
+      "note": "미국식으로 곧, 영국식으로 잠시. I will be with you momentarily 곧 가겠습니다.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "momentarily-s1",
+          "pos": "adv.",
+          "meaning": "곧; 금방",
+          "highlight": true,
+          "en": "The doctor will see you momentarily.",
+          "ko": "의사 선생님이 곧 진료해 드릴 겁니다."
+        },
+        {
+          "id": "momentarily-s2",
+          "pos": "adv.",
+          "meaning": "잠시; 잠깐",
+          "highlight": true,
+          "en": "The power went out momentarily.",
+          "ko": "전기가 잠깐 나갔다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "shortly와 패러프레이즈되는 시간 부사입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "shortly",
+      "term": "shortly",
+      "category": "표현 문법",
+      "note": "shortly after ~ 직후에. shortly before ~ 직전에.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "shortly-s1",
+          "pos": "adv.",
+          "meaning": "곧; 얼마 안 되어",
+          "highlight": true,
+          "en": "The train will arrive shortly.",
+          "ko": "열차가 곧 도착합니다."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "shortly after/before 구문이 독해·문법에 자주 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "urge",
+      "term": "urge",
+      "category": "사무 업무",
+      "note": "urge 사람 to do ~에게 ~하라고 촉구하다.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "urge-s1",
+          "pos": "v.",
+          "meaning": "촉구하다; 권고하다",
+          "highlight": true,
+          "en": "We urge all passengers to arrive early.",
+          "ko": "모든 승객께 일찍 도착하시기를 권고합니다."
+        },
+        {
+          "id": "urge-s2",
+          "pos": "n.",
+          "meaning": "충동; 욕구",
+          "highlight": false,
+          "en": "I had an urge to travel.",
+          "ko": "여행하고 싶은 충동이 들었다."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "urge someone to do 구문이 Part 5에서 빈출입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "validate",
+      "term": "validate",
+      "category": "사무 업무",
+      "note": "validate a parking ticket 주차권을 확인(인증)하다. valid 유효한.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "validate-s1",
+          "pos": "v.",
+          "meaning": "승인하다; 인증하다; 유효하게 하다",
+          "highlight": true,
+          "en": "The front desk can validate your parking ticket.",
+          "ko": "안내 데스크에서 주차권을 인증해 드릴 수 있습니다."
+        },
+        {
+          "id": "validate-s2",
+          "pos": "v.",
+          "meaning": "입증하다; 확인하다",
+          "highlight": false,
+          "en": "The data validated our predictions.",
+          "ko": "그 데이터가 우리의 예측을 입증했다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "주차권 인증·데이터 검증 문맥에서 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "wing",
+      "term": "wing",
+      "category": "시설 생활",
+      "note": "east wing 동관. new wing 신관.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "wing-s1",
+          "pos": "n.",
+          "meaning": "부속 건물; 동(棟)",
+          "highlight": true,
+          "en": "The hospital opened a new wing last year.",
+          "ko": "그 병원은 작년에 새 병동을 열었다."
+        },
+        {
+          "id": "wing-s2",
+          "pos": "n.",
+          "meaning": "날개",
+          "highlight": false,
+          "en": "The bird spread its wings.",
+          "ko": "새가 날개를 폈다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "건물 증축·위치 안내 지문에서 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "occasion",
+      "term": "occasion",
+      "category": "표현 문법",
+      "note": "special occasion 특별한 행사. on occasion 가끔.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "occasion-s1",
+          "pos": "n.",
+          "meaning": "(특별한) 행사; 의식",
+          "highlight": true,
+          "en": "The restaurant is perfect for special occasions.",
+          "ko": "그 식당은 특별한 행사에 안성맞춤이다."
+        },
+        {
+          "id": "occasion-s2",
+          "pos": "n.",
+          "meaning": "때; 경우",
+          "highlight": true,
+          "en": "I have met her on several occasions.",
+          "ko": "나는 그녀를 여러 차례 만났다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "특별한 행사·경우를 나타내며 occasional, occasionally와 품사 구분이 필요합니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "occasionally",
+      "term": "occasionally",
+      "category": "표현 문법",
+      "note": "occasional 가끔의(형용사)와 품사 구분.",
+      "correction": "‘가끔의’는 형용사 뜻이라 부사 뜻 ‘가끔; 때때로’로 바로잡았습니다.",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "occasionally-s1",
+          "pos": "adv.",
+          "meaning": "가끔; 때때로",
+          "highlight": true,
+          "en": "The manager occasionally works from home.",
+          "ko": "관리자는 가끔 재택근무를 한다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "빈도 부사로 품사 자리 문제에 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "retain",
+      "term": "retain",
+      "category": "고용 인사",
+      "note": "retain employees 직원을 유지하다. retain receipts 영수증을 보관하다.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "retain-s1",
+          "pos": "v.",
+          "meaning": "보유하다; 유지하다",
+          "highlight": true,
+          "en": "The company offers bonuses to retain skilled staff.",
+          "ko": "그 회사는 숙련된 직원을 붙잡기 위해 보너스를 제공한다."
+        },
+        {
+          "id": "retain-s2",
+          "pos": "v.",
+          "meaning": "보관하다",
+          "highlight": false,
+          "en": "Please retain your receipt for future reference.",
+          "ko": "나중을 위해 영수증을 보관해 주세요."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "인재 유지·서류 보관 문맥에서 keep과 패러프레이즈됩니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "retention",
+      "term": "retention",
+      "category": "고용 인사",
+      "note": "employee retention 직원 유지. customer retention 고객 유지.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "retention-s1",
+          "pos": "n.",
+          "meaning": "보유; 유지",
+          "highlight": true,
+          "en": "The program has improved employee retention.",
+          "ko": "그 프로그램으로 직원 유지율이 높아졌다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "인사·마케팅 지문에서 retain과 함께 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "sort",
+      "term": "sort",
+      "category": "사무 업무",
+      "note": "sort mail 우편물을 분류하다. sort out 정리하다, 해결하다.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "sort-s1",
+          "pos": "n.",
+          "meaning": "종류",
+          "highlight": true,
+          "en": "What sort of training do you offer?",
+          "ko": "어떤 종류의 교육을 제공하나요?"
+        },
+        {
+          "id": "sort-s2",
+          "pos": "v.",
+          "meaning": "분류하다; 정리하다",
+          "highlight": true,
+          "en": "A worker is sorting packages by size.",
+          "ko": "한 직원이 소포를 크기별로 분류하고 있다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "분류하다 동사와 종류 명사 모두 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "assortment",
+      "term": "assortment",
+      "category": "거래 금융",
+      "note": "a wide assortment of 다양한 종류의. = a variety of.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "assortment-s1",
+          "pos": "n.",
+          "meaning": "여러 가지를 모은 것; 구색",
+          "highlight": true,
+          "en": "The bakery offers a wide assortment of breads.",
+          "ko": "그 빵집은 다양한 종류의 빵을 판다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "a wide assortment of 표현이 상품 광고에 자주 나옵니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "spokesperson",
+      "term": "spokesperson",
+      "category": "사무 업무",
+      "note": "company spokesperson 회사 대변인. = spokesman, spokeswoman.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "spokesperson-s1",
+          "pos": "n.",
+          "meaning": "대변인",
+          "highlight": true,
+          "en": "A spokesperson for the company confirmed the merger.",
+          "ko": "회사 대변인이 합병을 확인했다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "기사·보도 자료 지문에서 인용 출처로 자주 등장합니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "stick",
+      "term": "stick",
+      "category": "표현 문법",
+      "note": "stick-stuck-stuck. stick to ~을 고수하다. be stuck in traffic 차가 막혀 꼼짝 못 하다.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "stick-s1",
+          "pos": "v.",
+          "meaning": "붙이다; 붙다",
+          "highlight": true,
+          "en": "Stick the label on the front of the box.",
+          "ko": "상자 앞면에 라벨을 붙이세요."
+        },
+        {
+          "id": "stick-s2",
+          "pos": "v.",
+          "meaning": "(stick to) 고수하다",
+          "highlight": true,
+          "en": "Let's stick to the original schedule.",
+          "ko": "원래 일정을 고수합시다."
+        },
+        {
+          "id": "stick-s3",
+          "pos": "n.",
+          "meaning": "막대기; 지팡이",
+          "highlight": false,
+          "en": "The man is leaning on a walking stick.",
+          "ko": "남자가 지팡이에 기대어 있다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "stick to 구문과 be stuck in traffic 표현으로 자주 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "lift",
+      "term": "lift",
+      "category": "표현 문법",
+      "note": "The fog lifted 안개가 걷혔다. lift a ban 금지를 해제하다.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "lift-s1",
+          "pos": "v.",
+          "meaning": "(안개 등이) 걷히다",
+          "highlight": true,
+          "en": "Flights will resume once the fog lifts.",
+          "ko": "안개가 걷히면 항공편 운항이 재개된다."
+        },
+        {
+          "id": "lift-s2",
+          "pos": "v.",
+          "meaning": "들어 올리다",
+          "highlight": false,
+          "en": "A man is lifting a box onto a cart.",
+          "ko": "한 남자가 상자를 카트 위로 들어 올리고 있다."
+        },
+        {
+          "id": "lift-s3",
+          "pos": "v.",
+          "meaning": "(금지를) 해제하다",
+          "highlight": false,
+          "en": "The city lifted the parking ban.",
+          "ko": "시는 주차 금지를 해제했다."
+        },
+        {
+          "id": "lift-s4",
+          "pos": "n.",
+          "meaning": "태워 주기; 승강기(영국식)",
+          "highlight": false,
+          "en": "Can you give me a lift to the station?",
+          "ko": "역까지 태워 줄 수 있나요?"
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "날씨 표현과 들어 올리다 동작 묘사 모두에 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "luncheon",
+      "term": "luncheon",
+      "category": "시설 생활",
+      "note": "awards luncheon 시상 오찬. lunch의 격식체.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "luncheon-s1",
+          "pos": "n.",
+          "meaning": "오찬; (격식 있는) 점심 모임",
+          "highlight": true,
+          "en": "Board members are invited to a luncheon on Friday.",
+          "ko": "이사진은 금요일 오찬에 초대된다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "공식 행사 초대장에서 lunch 대신 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "seamless",
+      "term": "seamless",
+      "category": "표현 문법",
+      "note": "seamless transition 원활한 전환. seamlessly 매끄럽게.",
+      "correction": "‘원할한’을 ‘원활한’으로 바로잡았습니다.",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "seamless-s1",
+          "pos": "a.",
+          "meaning": "원활한; 매끄러운",
+          "highlight": true,
+          "en": "The app offers a seamless shopping experience.",
+          "ko": "그 앱은 원활한 쇼핑 경험을 제공한다."
+        }
+      ],
+      "importance": {
+        "level": 2,
+        "reason": "시스템·서비스 전환 홍보 문구에 자주 쓰입니다.",
+        "basis": "editorial-toeic-v1"
+      }
+    },
+    {
+      "id": "transaction",
+      "term": "transaction",
+      "category": "거래 금융",
+      "note": "complete a transaction 거래를 완료하다. transaction fee 거래 수수료.",
+      "correction": "",
+      "batch": "다섯 번째 기록",
+      "senses": [
+        {
+          "id": "transaction-s1",
+          "pos": "n.",
+          "meaning": "거래; 처리",
+          "highlight": true,
+          "en": "All transactions are processed securely.",
+          "ko": "모든 거래는 안전하게 처리된다."
+        }
+      ],
+      "importance": {
+        "level": 3,
+        "reason": "결제·은행 지문의 핵심 명사입니다.",
         "basis": "editorial-toeic-v1"
       }
     }
